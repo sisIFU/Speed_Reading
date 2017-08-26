@@ -51,16 +51,15 @@ The inventor of Evelyn Wood Reading Dynamics.
 
 ### Evidence about reading speed limits
 * How our eyes work when we're reading?
-... Read Keith Rayner's[Eye Movements and Information Processing during Reading](/Books/Ralph Radach Eye Movements and Information Processing during Reading.pdf) to get a comprehensive look at it.
+... Read Keith Rayner's[Eye Movements and Information Processing during Reading](../Books/Ralph Radach Eye Movements and Information Processing during Reading.pdf) to get a comprehensive look at it.
 
-* Cognitive factor limit reading rate with RSVP method:
-... [this article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153786)
+* Cognitive factor limit reading rate with RSVP method: [check this article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153786)
 
 ### Findings and research regarding who read
 
- * People who read fiction for pleasure are more open-minded and more able to deal with uncertainty: [this article](https://www.theatlantic.com/national/archive/2013/07/more-evidence-reading-good-you/313575/)
- * Carnal reading: when reading make you a smarter and better person [this article](http://ideas.time.com/2013/06/03/why-we-should-read-literature/)
- * "Ludic reading" by Victor Nell: reading for pleasure [this article](https://msu.edu/~dwong/CEP991/CEP991Resources/Nell-RdngPleasure.pdf)
+ * People who read fiction for pleasure are more open-minded and more able to deal with uncertainty: [check this article](https://www.theatlantic.com/national/archive/2013/07/more-evidence-reading-good-you/313575/)
+ * Carnal reading: when reading make you a smarter and better person: [check this article](http://ideas.time.com/2013/06/03/why-we-should-read-literature/)
+ * "Ludic reading" by Victor Nell: reading for pleasure: [check this article](https://msu.edu/~dwong/CEP991/CEP991Resources/Nell-RdngPleasure.pdf)
 
 ### Conclusion
 
