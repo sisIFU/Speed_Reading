@@ -6,7 +6,7 @@ This is the collection of recent works and also my thoughts on speed reading. I 
 
 ### List of articles
 
-1. [ The Truth About Speed Reading ] (http://lifehacker.com/the-truth-about-speed-reading-1542508398)
+1. [ The truth about speed reading ] (http://lifehacker.com/the-truth-about-speed-reading-1542508398)
 2. [BIG QUESTION: IS SPEED READING ACTUALLY POSSIBLE?](https://www.wired.com/2015/09/big-question-speed-reading-actually-possible/)
 3. [Speed reading claims discredited by new report](https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report)
 The article mentioned in the book: 
