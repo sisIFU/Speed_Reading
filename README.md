@@ -6,6 +6,10 @@ This is the collection of recent works and also my thoughts on speed reading. I 
 
 *"If we come to think reading is this secondary activity we do while doing other stuff, then we lose that deepest and most important kind of reading," said Nicholas Carr, author of 'The Shallows: What the Internet is Doing to Our Brains.' "The broader danger is that technology will give us the illusion that everything can be done while multitasking, including reading."*
 
+### Perspectives about Reading
+
+ Reading is a much more recent cultural invention, and it must be deliberately taught. 
+ “understanding this complex skill means understanding something essential about being human.”
 ### List of Articles
 
 Most of the articles question Speed Reading and claimed that speed reading and comprehensive cannot be achieved at the same time:
@@ -46,11 +50,11 @@ The inventor of Evelyn Wood Reading Dynamics.
 
 * Electronics Versus Paper
 
-"I'm not convinced there's really a neurological difference per se between electronic and paper documents"
+⋅⋅⋅"I'm not convinced there's really a neurological difference per se between electronic and paper documents"
 
 * Aduio versus slient reading
 
-"Setting political correctness aside, however, it's probably true that if you really want to absorb the multiple meanings, and you're only going to do this once, reading is better."
+⋅⋅⋅"Setting political correctness aside, however, it's probably true that if you really want to absorb the multiple meanings, and you're only going to do this once, reading is better."
 
 ### Evidence about reading speed limits
 * How our eyes work when we're reading?
