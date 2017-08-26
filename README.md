@@ -3,7 +3,12 @@
 This is the collection of recent works and also my thoughts on speed reading. I will give a state-of-art study about speed reading.
 
 [Test your reading speed here...](https://www.staples.com/sbd/cre/marketing/technology-research-centers/ereaders/speed-reader/)
+
+"If we come to think reading is this secondary activity we do while doing other stuff, then we lose that deepest and most important kind of reading," said Nicholas Carr, author of 'The Shallows: What the Internet is Doing to Our Brains.' "The broader danger is that technology will give us the illusion that everything can be done while multitasking, including reading."
+
 ### List of Articles
+
+Most of the articles question Speed Reading and claimed that speed reading and comprehensive cannot be achieved at the same time:
 
 1. [The Truth About Speed Reading](http://lifehacker.com/the-truth-about-speed-reading-1542508398)
 2. [BIG QUESTION: IS SPEED READING ACTUALLY POSSIBLE?](https://www.wired.com/2015/09/big-question-speed-reading-actually-possible/)
@@ -12,6 +17,8 @@ This is the collection of recent works and also my thoughts on speed reading. I 
 [So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help?](http://journals.sagepub.com/stoken/rbtfl/0GSjhNaccRKTY/full)
 5. [The 1,000-Word Dash](http://www.slate.com/articles/briefing/articles/2000/02/the_1000word_dash.html)
 6. [How I Learned to Read 300 Percent Faster in 20 Minutes](http://www.huffingtonpost.com/tim-ferriss/speed-reading_b_5317784.html)
+7. [Is Speed Reading Possible?](https://www.theatlantic.com/health/archive/2014/03/is-speed-reading-possible/284326/)
+
 
 
 ### Books
@@ -24,11 +31,13 @@ He wrote the book *Speed Reading* and is universally recognized.
 
 2. [Anne Jones](http://speedyreader.co.uk/)
 She is the six time World Speed Reading Championship winner.
+3. [ Evelyn Nielsen Wood] (http://www.nytimes.com/1995/08/30/obituaries/evelyn-wood-who-promoted-speed-reading-is-dead-at-86.html?scp=3&sq=%22evelyn%20wood%22&st=cse)
+Evelyn Wood Reading Dynamics
 
 ### The mechanism behind reading
 
-How our eyes work when we're reading.
-[Eye Movements and Information Processing during Reading]
+How our eyes work when we're reading?
+Read Keith Rayner's [Eye Movements and Information Processing during Reading](/Books/Ralph Radach Eye Movements and Information Processing during Reading.pdf) to get a comprehensive look at it.
 
 ### Several Common Methods of Rapid Reading
 
@@ -36,6 +45,17 @@ How our eyes work when we're reading.
 * Meta guiding
 * Rapid Serial Visual Presentation
 
+### Reading via electronic devices V.S. paper
+ "I'm not convinced there's really a neurological difference per se between electronic and paper documents"
+
+### Findings and research regarding who read
+
+ * People who read fiction for pleasure are more open-minded and more able to deal with uncertainty: [this article](https://www.theatlantic.com/national/archive/2013/07/more-evidence-reading-good-you/313575/)
+ * Carnal reading: when reading make you a smarter and better person [this article](http://ideas.time.com/2013/06/03/why-we-should-read-literature/)
+
+*What differentiates fast and slow readers is not how they read, he points out, but their overall language skills and vocabularies.*
+**To read faster, read more.**
+In conclusion, speed reading is good and worthwhile when you need to read something unimportant or what to gest the gist of something. You will sacrfice your comprehensive for the speed. In a word, *you can not be a fast reading comprehension machine*.
 
 
 
