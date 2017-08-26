@@ -72,7 +72,9 @@ The inventor of Evelyn Wood Reading Dynamics.
 
 *What differentiates fast and slow readers is not how they read, he points out, but their overall language skills and vocabularies.*
 
-In conclusion, speed reading is worthwhile when you need to read something unimportant or want to get the gist of something. You will sacrfice your comprehension for the speed. In a word, *you can not be a fast reading comprehension machine*. But is there any way to improve your reading speed? The answer is **to read faster, you should read more.** Check this article and get a detailed looked at the answer: [Faster Pussycat! Read! Read!](http://www.slate.com/articles/briefing/articles/2000/02/faster_pussycat_read_read.html).
+In conclusion, speed reading is worthwhile when you need to read something unimportant or want to get the gist of something. You will sacrfice your comprehension for the speed. In a word, *you can not be a fast reading comprehension machine*. But is there any way to improve your reading speed? 
+
+The answer is **to read faster, you should read more.** Check this article and get a detailed looked at the answer: [Faster Pussycat! Read! Read!](http://www.slate.com/articles/briefing/articles/2000/02/faster_pussycat_read_read.html).
 
 *The real worry is that if people wind up reading in a less rewarding fashion, they'll get fewer rewards from reading — and then books will become less an object of passionate love and more of a momentary distraction, after all.*
 
