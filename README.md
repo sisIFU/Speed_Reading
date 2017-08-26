@@ -51,7 +51,7 @@ The inventor of Evelyn Wood Reading Dynamics.
 
 ### Evidence about reading speed limits
 * How our eyes work when we're reading?
-... Read Keith Rayner's[Eye Movements and Information Processing during Reading](../Books/Ralph Radach Eye Movements and Information Processing during Reading.pdf) to get a comprehensive look at it.
+... Read Keith Rayner's[Eye Movements and Information Processing during Reading](..SPEED_READING/Books/Ralph Radach Eye Movements and Information Processing during Reading.pdf) to get a comprehensive look at it.
 
 * Cognitive factor limit reading rate with RSVP method: [check this article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153786)
 
