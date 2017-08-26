@@ -45,13 +45,16 @@ The inventor of Evelyn Wood Reading Dynamics.
 ### Comparion between way of reading
 
 * Electronics Versus Paper
-... "I'm not convinced there's really a neurological difference per se between electronic and paper documents"
+
+"I'm not convinced there's really a neurological difference per se between electronic and paper documents"
+
 * Aduio versus slient reading
-..."Setting political correctness aside, however, it's probably true that if you really want to absorb the multiple meanings, and you're only going to do this once, reading is better."
+
+"Setting political correctness aside, however, it's probably true that if you really want to absorb the multiple meanings, and you're only going to do this once, reading is better."
 
 ### Evidence about reading speed limits
 * How our eyes work when we're reading?
-... Read Keith Rayner's[Eye Movements and Information Processing during Reading](https://github.com/sisIFU/Speed_Reading/blob/master/Books/Ralph%20Radach%20Eye%20Movements%20and%20Information%20Processing%20during%20Reading.pdf) to get a comprehensive look at it.
+... Read Keith Rayner's [Eye Movements and Information Processing during Reading](https://github.com/sisIFU/Speed_Reading/blob/master/Books/Ralph%20Radach%20Eye%20Movements%20and%20Information%20Processing%20during%20Reading.pdf) to get a comprehensive look at it.
 
 * Cognitive factor limit reading rate with RSVP method: [check this article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153786)
 
@@ -65,7 +68,7 @@ The inventor of Evelyn Wood Reading Dynamics.
 
 *What differentiates fast and slow readers is not how they read, he points out, but their overall language skills and vocabularies.*
 
-In conclusion, speed reading is worthwhile when you need to read something unimportant or want to get the gist of something. You will sacrfice your comprehension for the speed. In a word, *you can not be a fast reading comprehension machine*. But is there any way to improve your reading speed? The answer is **to read faster, you should read more.** Check this article and get a detailed looked at the answer:[Faster Pussycat! Read! Read!](http://www.slate.com/articles/briefing/articles/2000/02/faster_pussycat_read_read.html).
+In conclusion, speed reading is worthwhile when you need to read something unimportant or want to get the gist of something. You will sacrfice your comprehension for the speed. In a word, *you can not be a fast reading comprehension machine*. But is there any way to improve your reading speed? The answer is **to read faster, you should read more.** Check this article and get a detailed looked at the answer: [Faster Pussycat! Read! Read!](http://www.slate.com/articles/briefing/articles/2000/02/faster_pussycat_read_read.html).
 
 *The real worry is that if people wind up reading in a less rewarding fashion, they'll get fewer rewards from reading — and then books will become less an object of passionate love and more of a momentary distraction, after all.*
 
